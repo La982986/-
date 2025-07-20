@@ -38,7 +38,7 @@
 - `protoc`版本：`libprotoc 25.1`
 - NodeJs v18.2.0
 - ## Buy me cookie
-<img src="ali.png" width="" height="400">
+<img src="3ea57e7e49425df37f8c2b834178d8a8.jpg" width="" height="400">
 
 ## 预览1
 <img src="2.png" width="" height="400">
